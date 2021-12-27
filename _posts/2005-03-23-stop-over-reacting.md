@@ -1,0 +1,30 @@
+---
+id: 76
+title: Stop Over-Reacting
+date: 2005-03-23T12:00:59-07:00
+author: Peter Williams
+layout: post
+guid: http://pezra.barelyenough.org/wordpress/?p=76
+permalink: /blog/2005/03/stop-over-reacting/
+categories:
+  - Software Development
+tags:
+  - Java
+---
+One of my pet peeves with Java is the member access modifiers. I despise the semantics of private. My problem with private is that it prevents subclasses from accessing the member. This is almost always a bad idea. Basically you are saying, &#8220;I know how my code should be used all other developers are too stupid to be trusted to use this member in a reasonable way&#8221;. If there is one thing you can rely on, it is that any code you write will someday be used in a way you have not yet anticipated.
+
+I think the semantics of private are an example of over-reaction. I can hear the reasoning now, &#8220;Global variables make a program hard to debug because they are not encapsulated and therefore get accidentally modified. We should solve that problem by having complete encapsulation.&#8221; The real problem, however, is that global variables get <span style='font-weight: bold;'>accidentally</span> changed, not the lack of encapsulation. Encapsulation is merely a tool that might help prevent accidental use/change of state.
+
+The inappropriate use and change happens because it is not clear who owns them and in what contexts that state should be used and changed. In practice, it seems that encapsulation does help solve this problems but the encapsulation need only be obvious, not enforced. With OO we have a way to provide obvious logical encapsulation in the form of members. The addition of these obvious boundaries of use effectively solves the accidental mis-use problem &#8211; regardless of whether those boundaries are enforce or not &#8211; by making it clear where it is generally appropriate to use/modify an item. The strictness of Java&#8217;s private modifier is not necessary or helpful.
+
+Once I started thinking about this, I noticed that this sort of over-reaction is rampant in the software industry. Static typing is a over-reaction to weakly typed languages. Java/C# inheritance models are an over-reaction to the complexities of multiple inheritance in C++ (interfaces exists because, as it turns out, you really do need multiple inheritance to make OO work and these languages have a broken inheritance model). XP is an over-reaction to water fall development methodologies. (I think. I have not totally convenience myself of this one yet.)
+
+For example, I think manifest (or static) typing is an over-reaction to weakly typed systems. Everyone who has worked with C has a story about how they accidentally overwrote some random memory by doing pointer arithmetic something that was not really a pointer &#8211; or something similar &#8211; and it caused their program to fail much later in a completely different part of the code. This sort of thing is very difficult to debug because the code which is incorrect is not where the failure occurs. So C++ was introduced with strong and manifest types, and it was better. But it was the strong typing &#8211; that is, if you attempted to use an item in way that its type does not support the code fails in an obvious way &#8211; was the thing that made it better, not that the types are manifest in the source code. But everyone got the &#8220;manifest typing == strong typing == good; anything else == bad&#8221; meme anyway.
+
+As for multiple inheritance I can only say that the C++ implementation of multiple inheritance is complex. But it is an implementation problem, not a conceptual problem. Multiple inheritance is not conceptually difficult and it is useful.
+
+This tendency to over-react has been noticed before, of course. There is a well known pattern in software systems called second system syndrome. Second system syndrome is, at its core, an over-reaction. It usually goes like this. You build a system and it works basically as intended. People use it and want it to do something you had not anticipated and it takes a lot of work to implement that functionality. So you say, &#8220;well I am not going have that problem again&#8221; and you make the 2.0 version super flexible, extensible and any other -able you can think of. The thing about all those -ables is that they make the base system more complex and mostly you will not be using them. You over-reacted and you pay the price in much more difficult maintenance.
+
+XP attempts to mitigate this tendency by saying, &#8220;assume simplicity&#8221;, which seems to have devolved into &#8220;don&#8217;t crystal-ball&#8221;. I think the &#8220;don&#8217;t crystal-ball&#8221; form is an over-reaction in itself. We have been burned in the past by unneeded complexity so instead we preclude all functionality that is not needed at this exact moment (even if you will probably need it tomorrow). Assuming simplicity not a bad approach but developers should try to guess what is going to happen in the future. Then they should examine those predictions with an extremely critical eye. If a predicted functionality is not likely to be needed it should be ignored. If the predicted functionality can be added easily at a later date it should be ignored. If the predicted functionality is likely to be needed and would be difficult to add in the future it is something that should be implemented now &#8211; or at least enough of it should be implemented so the rest can be implemented easily in the future. The thing to remember is that most of the functionality you can imagine will never be needed so you need to be brutal when evaluating your predictions.
+
+I think our industry would be a lot better off if we could learn solve the real problem instead of over-reacting to spurious issues that previous solutions introduced.
