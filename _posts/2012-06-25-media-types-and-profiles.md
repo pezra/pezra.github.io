@@ -38,6 +38,6 @@ Consider an API that uses a media type based on Atom but with extensions. It cou
 
 This particular line of thinking was prompted by [Peter Janes pointing out that profiles and media type based versioning might be complementary](http://peterjanes.ca/blog/2012/06/19/rest-period/).
 
-> Something has been nagging at me about the approaches to REST API versioning presented by [Peter Williams](http://barelyenough.org/blog/tag/rest-versioning/) and [Mark Nottingham](http://www.mnot.net/blog/2012/04/17/profiles). Iâ€™m sure theyâ€™re complementary, but Iâ€™m not quite grokking how. 
+> Something has been nagging at me about the approaches to REST API versioning presented by [Peter Williams](http://barelyenough.org/blog/tag/rest-versioning/) and [Mark Nottingham](http://www.mnot.net/blog/2012/04/17/profiles). I'm sure they're complementary, but I'm not quite grokking how.
 
 That insight really got me thinking. The impacts to intermediates of media type versioning has been a nagging issue for me for a while now and i am happy to finally have a solution.

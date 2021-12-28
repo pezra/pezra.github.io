@@ -15,7 +15,7 @@ Mr. Lessig speaking of the man who sexually abused him and the people who knew a
 
 <blockquote cite='http://newyorkmetro.com/nymetro/news/features/12061/index7.html'>
   <p>
-    â€œIâ€™ve never felt angry, or really angry, at Hanson. Hansonâ€™s sick. Heâ€™s got a disease. The real evil isnâ€™t the Hitler. The evil is the good German. The evil is all those people who couldâ€™ve just picked up the goddamn telephone and stopped it.â€
+    "I've never felt angry, or really angry, at Hanson. Hanson's sick. He's got a disease. The real evil isn't the Hitler. The evil is the good German. The evil is all those people who could've just picked up the goddamn telephone and stopped it."
   </p>
 </blockquote>
 

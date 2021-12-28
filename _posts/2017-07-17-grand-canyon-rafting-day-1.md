@@ -31,13 +31,13 @@ The scenery is awe inspiring right from the beginning (as you can see from the b
   </p>
 </div>
 
-Lunch is a short break from the river. Â The crew sets up an impressive buffet of sandwich makings and snacks. As soon as everyone is done eating the table and food is stowed and we are back on the river.
+Lunch is a short break from the river.  The crew sets up an impressive buffet of sandwich makings and snacks. As soon as everyone is done eating the table and food is stowed and we are back on the river.
 
 <img loading="lazy" class="alignnone wp-image-1409 size-large" src="/wp-content/uploads/2017/07/P1000019-600x400.jpg" alt="" width="600" height="400" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000019-600x400.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000019-150x100.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000019-300x200.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000019-768x512.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000019-700x467.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" />
 
 [<img loading="lazy" class="alignnone wp-image-1410 size-large" src="/wp-content/uploads/2017/07/P1000029-600x400.jpg" alt="" width="600" height="400" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000029-600x400.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000029-150x100.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000029-300x200.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000029-768x512.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000029-700x467.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2017/07/P1000029.jpg)
 
-We ran 4 small to medium rapids (badger creek, soap creek, 13 mileÂ and sheer wall) on the first day. Unfortunately, i don&#8217;t have any pictures or video of the rapids due to needing to have both hands on the paddle during rapids and an issue with Elliot&#8217;s go pro, which i will cover in a later post.
+We ran 4 small to medium rapids (badger creek, soap creek, 13 mile and sheer wall) on the first day. Unfortunately, i don&#8217;t have any pictures or video of the rapids due to needing to have both hands on the paddle during rapids and an issue with Elliot&#8217;s go pro, which i will cover in a later post.
 
 <div id="attachment_1411" style="width: 610px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2017/07/P1000032.jpg"><img aria-describedby="caption-attachment-1411" loading="lazy" class="wp-image-1411 size-large" src="/wp-content/uploads/2017/07/P1000032-600x400.jpg" alt="" width="600" height="400" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000032-600x400.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000032-150x100.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000032-300x200.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000032-768x512.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000032-700x467.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a>
@@ -57,4 +57,4 @@ We ran 4 small to medium rapids (badger creek, soap creek, 13 mileÂ and sheer 
 
 Dinner is steak, mash potatoes and salad. It is seriously excellent.
 
-We sleep on the beach under the stars &#8212; well clouds strictly speaking . It was super hot and there were lots bugs so it is a rather fitfulÂ night. Later i learn that wetting the provided liner (a sleeping bag made out of light weight cotton fabric) and sleeping in that is the suggested way of cooling down and keeping the bugs off. Live and learn.
+We sleep on the beach under the stars &#8212; well clouds strictly speaking . It was super hot and there were lots bugs so it is a rather fitful night. Later i learn that wetting the provided liner (a sleeping bag made out of light weight cotton fabric) and sleeping in that is the suggested way of cooling down and keeping the bugs off. Live and learn.

@@ -11,7 +11,7 @@ categories:
 tags:
   - elixir
 ---
-Fact:Â [Supervisors](https://hexdocs.pm/elixir/Supervisor.html#module-start_link-2-init-2-and-strategies) **fully** serialize the startup of their children. Each childâ€™s `init/1` function runs to completion before the supervisor starts the next child.
+Fact: [Supervisors](https://hexdocs.pm/elixir/Supervisor.html#module-start_link-2-init-2-and-strategies) **fully** serialize the startup of their children. Each child's `init/1` function runs to completion before the supervisor starts the next child.
 
 For example, given modules `ModuleA` and `ModuleB` that implement both the `init/1` callback and this supervisor:
 
@@ -30,37 +30,37 @@ We can implement that behavior simply and easily using serialization and appropr
 
     defmodule MyApi.TokenManager do
       use GenServer
-    
+
       def init(_) do
         token = fetch_token_from_api!()
         {:ok, token}
       end
-    
+
       def handle_call(:get_token, _from, token) do
         {:reply, token, token}
       end
     end
-    
+
     defmodule MyApi.ThingDoer do
       use GenServer
-    
+
       def handle_call(:do_thing, _from, _state) do
         token = MyApi.TokenManager.get_token()
-    
+
         # do stuff with token; crash if it doesn't work
       en
     end
-    
+
     defmodule MyApi.OtherThingDoer do
       use GenServer
-    
+
       def handle_call(:do_other_thing, _from, _state) do
         token = MyApi.TokenManager.get_token()
-    
+
         # do stuff with token; crash if it doesn't work
       en
     end
-    
+
     Supervisor.start_link([
       MyApi.TokenManager,
       MyApi.ThingDoer,
@@ -69,4 +69,4 @@ We can implement that behavior simply and easily using serialization and appropr
 
 In this example `MyApi.TokenManager.init/1` acquires the token before returning. That means the token is ready by the time `MyApi.ThingDoer` and `MyApi.OtherThingDoer` start. If at any point to the API server revokes the token, or it expires, the next thing doer to try to use it can just crash. That crash will cause the supervisor to shutdown the remaining children and restart them all beginning with `MyApi.TokenManager` which will acquire a new, working token.
 
-With this approach `MyApi.ThingDoer` and `MyApi.OtherThingDoer` donâ€™t need any specific error handling code around token management. The removal of situation-specific error handling logic makes them simpler and more reliable.
+With this approach `MyApi.ThingDoer` and `MyApi.OtherThingDoer` don't need any specific error handling code around token management. The removal of situation-specific error handling logic makes them simpler and more reliable.

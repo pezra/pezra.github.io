@@ -15,11 +15,11 @@ In the [humane vs inhumane&#8230; err, I mean &#8220;minimal&#8221;&#8230; inter
 
 [Charles Miller](http://fishbowl.pastiche.org/2005/12/09/humane_interfaces)
 
-> Having two otherwise equivalent ways to perform the same operation is bad user-interface design, and itâ€™s bad library interface design, because the existence of the synonyms actually adds to your cognitive load by making you choose between them. 
+> Having two otherwise equivalent ways to perform the same operation is bad user-interface design, and it's bad library interface design, because the existence of the synonyms actually adds to your cognitive load by making you choose between them.
 
 [Joey DeVilla](http://farm.tucows.com/blog/_archives/2005/12/9/1443435.html)
 
-> I do have one complaint about the Ruby approach &#8212; method aliases. While it&#8217;s convenient for luring in programmers from other languages, I think it actually detracts from code readability to have two method names mean the same thing. 
+> I do have one complaint about the Ruby approach &#8212; method aliases. While it&#8217;s convenient for luring in programmers from other languages, I think it actually detracts from code readability to have two method names mean the same thing.
 
 I think that synonyms are a valuable tool. Even if Charles Miller is correct that having multiple names for a method &#8220;adds to your cognitive load by making you choose between them&#8221; I still think that method aliases are great.
 

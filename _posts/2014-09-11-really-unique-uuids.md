@@ -12,7 +12,7 @@ tags:
   - Cassandra
   - Scala
 ---
-Recently we encountered a problem with duplicate time UUIDs while loading a lot of data into [Cassandra](http://cassandra.apache.org/). Duplicates are not normally a problem with UUIDs but occasionally you need to generate time UUIDS from a low resolution clock and/or load a lot of data really fast. In these situations you can overwhelm the ability of â€œcorrectâ€ (to the spec) implementations of time UUID generation to create truly unique id.
+Recently we encountered a problem with duplicate time UUIDs while loading a lot of data into [Cassandra](http://cassandra.apache.org/). Duplicates are not normally a problem with UUIDs but occasionally you need to generate time UUIDS from a low resolution clock and/or load a lot of data really fast. In these situations you can overwhelm the ability of "correct" (to the spec) implementations of time UUID generation to create truly unique id.
 
 The problem is that [version 1 UUID](http://en.wikipedia.org/wiki/Universally_unique_identifier#Version_1_.28MAC_address.29) use a lot of their bits to store the [MAC address](http://en.wikipedia.org/wiki/MAC_address), leaving only enough space for a 100 nanosecond resolution timestamp and a small sequence number. That works fine is great if a bunch of different machine are generating UUIDs fairly slowly but if you have a small number of machine generating them as fast as possible it is just not good enough.
 
@@ -36,7 +36,7 @@ The exact structure of a time UUID is described in [RFC 4122](http://tools.ietf.
 That the same as every other time UUID generator. For the least significant bits we need to do things a little differently.
 
     def rand = new Random()
-    
+
     def randomClockSeqAndNodeFields = {
       var lsb: Long = 0
       lsb |= 0x8000000000000000L // variant (2 bits)

@@ -31,7 +31,7 @@ Embedding all the information needed to interpret a message simplifies client im
 
 ### standards over bespoke solutions {#standards_over_bespoke_solutions}
 
-Standards allow reuse of code and of knowledge. Standards often encode hard-won practical experience about what works and what doesnâ€™t. However, standard solutions often donâ€™t fit as well as purpose-designed solutions to specific problems.
+Standards allow reuse of code and of knowledge. Standards often encode hard-won practical experience about what works and what doesn't. However, standard solutions often don't fit as well as purpose-designed solutions to specific problems.
 
 ### human readability over client simplicity {#human_readability_over_client_simplicity}
 
@@ -43,4 +43,4 @@ There should be a small number of ways to express a particular message. This mak
 
 ## why now {#why_now}
 
-There has been a fair bit of discussion in [HTTP APIs hypermedia channel](https://httpapis.slack.com/messages/C1JQJUF2T)Â ([get an invite](http://slack.httpapis.com/)) lately about hypermedia formats (particularly those of the JSON variety). Personally, i find all of the existing options wanting. Iâ€™m not sure the world needs yet another JSON based hypermedia format but the discussion did prompt me to try to articulate what i value in a format. The format is blatantly stolen from [the agile manifesto](http://agilemanifesto.org/).
+There has been a fair bit of discussion in [HTTP APIs hypermedia channel](https://httpapis.slack.com/messages/C1JQJUF2T) ([get an invite](http://slack.httpapis.com/)) lately about hypermedia formats (particularly those of the JSON variety). Personally, i find all of the existing options wanting. I'm not sure the world needs yet another JSON based hypermedia format but the discussion did prompt me to try to articulate what i value in a format. The format is blatantly stolen from [the agile manifesto](http://agilemanifesto.org/).

@@ -21,28 +21,28 @@ The Rubric is divided into two sections. One about results and the other about b
   <tr>
     <th colspan="1" rowspan="1">
     </th>
-    
+
     <th colspan="1" rowspan="1">
       3
     </th>
-    
+
     <th colspan="1" rowspan="1">
       2
     </th>
-    
+
     <th colspan="1" rowspan="1">
       1
     </th>
-    
+
     <th colspan="1" rowspan="1">
     </th>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Continuous improvement
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -53,7 +53,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -61,7 +61,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -72,7 +72,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -81,12 +81,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Communication
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -103,7 +103,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -117,7 +117,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -131,7 +131,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -146,12 +146,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Production support
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -165,7 +165,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -179,7 +179,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -193,7 +193,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -214,12 +214,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Code Quality
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -236,7 +236,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -253,7 +253,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -270,7 +270,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -288,23 +288,23 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Productivity
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
-          usually delivers moreÂ  stories per sprint than the average engineer
+          usually delivers more  stories per sprint than the average engineer
         </li>
         <li>
           usually delivers more points per sprint than the average engineer
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -312,7 +312,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -320,7 +320,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -329,12 +329,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Testing
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -348,7 +348,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -362,7 +362,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -376,7 +376,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -385,12 +385,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Feedback
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -404,7 +404,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -418,7 +418,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -432,7 +432,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -441,12 +441,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Product & domain knowledge
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -460,7 +460,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -471,7 +471,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -482,7 +482,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -494,12 +494,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Personal goals
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -513,7 +513,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -527,7 +527,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -538,7 +538,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -562,7 +562,7 @@ The Rubric is divided into two sections. One about results and the other about b
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Attitude
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -573,7 +573,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -584,7 +584,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -592,7 +592,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -604,12 +604,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Courage
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -623,7 +623,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -634,7 +634,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -645,7 +645,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -657,12 +657,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Motivation
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -673,7 +673,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -684,7 +684,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -692,7 +692,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -704,34 +704,34 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Strategic thinking
     </th>
-    
+
     <td colspan="1" rowspan="1">
       plans for 6 month &#8211; 2 year horizon
     </td>
-    
+
     <td colspan="1" rowspan="1">
       plans for 3 &#8211; 6 month horizon
     </td>
-    
+
     <td colspan="1" rowspan="1">
       plans for 1 &#8211; 3 month horizon
     </td>
-    
+
     <td colspan="1" rowspan="1">
       no planning
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Trustworthiness
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -742,7 +742,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -756,7 +756,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -767,7 +767,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -779,12 +779,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Learning
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -798,7 +798,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -809,7 +809,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -820,7 +820,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -832,12 +832,12 @@ The Rubric is divided into two sections. One about results and the other about b
       </ul>
     </td>
   </tr>
-  
+
   <tr>
     <th style="white-space: unset;" colspan="1" rowspan="1">
       Pairing*
     </th>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -848,7 +848,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -859,7 +859,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>
@@ -870,7 +870,7 @@ The Rubric is divided into two sections. One about results and the other about b
         </li>
       </ul>
     </td>
-    
+
     <td colspan="1" rowspan="1">
       <ul>
         <li>

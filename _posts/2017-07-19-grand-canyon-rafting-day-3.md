@@ -11,7 +11,7 @@ categories:
 tags:
   - grand-canyon-2017
 ---
-Day 3 is a float day. No rapidsÂ to speak of. Still, it turned out to be my favorite day of the trip.
+Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favorite day of the trip.
 
 <div id="attachment_1458" style="width: 610px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2017/07/P1000130.jpg"><img aria-describedby="caption-attachment-1458" loading="lazy" class="wp-image-1458 size-large" src="/wp-content/uploads/2017/07/P1000130-600x400.jpg" alt="" width="600" height="400" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000130-600x400.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000130-150x100.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000130-300x200.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000130-768x512.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000130-700x467.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a>
@@ -61,7 +61,7 @@ Day 3 is a float day. No rapidsÂ to speak of. Still, it turned out to be my fa
   </p>
 </div>
 
-We stopped at redwallÂ cavern and played horseshoes, bocce ball and frisbee. We also saw some great fossils.
+We stopped at redwall cavern and played horseshoes, bocce ball and frisbee. We also saw some great fossils.
 
 <div id="attachment_1465" style="width: 610px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2017/07/P1000146.jpg"><img aria-describedby="caption-attachment-1465" loading="lazy" class="wp-image-1465 size-large" src="/wp-content/uploads/2017/07/P1000146-600x400.jpg" alt="" width="600" height="400" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000146-600x400.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000146-150x100.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000146-300x200.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000146-768x512.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000146-700x467.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a>
@@ -103,7 +103,7 @@ After lunch we all hitched our boats to Tom&#8217;s oar (cargo) boat and listene
 
 [<img loading="lazy" class="alignnone size-large wp-image-1471" src="/wp-content/uploads/2017/07/P1000161-600x450.jpg" alt="" width="600" height="450" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000161-600x450.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000161-150x113.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000161-300x225.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000161-768x576.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000161-700x525.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2017/07/P1000161.jpg)
 
-At camp we hiked up to the top of the inner canyon rim. It was aÂ pretty serious hike but the views are well worth it.
+At camp we hiked up to the top of the inner canyon rim. It was a pretty serious hike but the views are well worth it.
 
 [<img loading="lazy" class="alignnone size-large wp-image-1472" src="/wp-content/uploads/2017/07/P1000169-600x172.jpg" alt="" width="600" height="172" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169-600x172.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169-150x43.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169-300x86.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169-768x221.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169-700x201.jpg 700w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000169.jpg 1616w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2017/07/P1000169.jpg)
 

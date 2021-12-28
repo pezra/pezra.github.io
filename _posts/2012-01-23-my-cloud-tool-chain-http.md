@@ -14,4 +14,4 @@ categories:
 tags:
   - twitter
 ---
-My â€œcloudâ€ tool chain <a href="http://t.co/DJXOWazN" rel="nofollow">http://t.co/DJXOWazN</a>
+My "cloud" tool chain <a href="http://t.co/DJXOWazN" rel="nofollow">http://t.co/DJXOWazN</a>

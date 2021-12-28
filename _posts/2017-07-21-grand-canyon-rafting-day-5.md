@@ -45,7 +45,7 @@ Day 5 is the biggest rapids day yet. They come one right after another for an ac
   </p>
 </div>
 
-We transition from sedimentary rock to metamorphic and igneous as the river descends past the greatÂ unconformity.
+We transition from sedimentary rock to metamorphic and igneous as the river descends past the great unconformity.
 
 Penne and meat balls for dinner. Carb loading for the big hike out tomorrow.
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - grand-canyon-2017
 ---
-The Hike out. 8.6 miles horizontally, 1 mile vertically, 108 degrees in the sun (which most of the way is). We are each carrying about 25Â pounds gear and water.
+The Hike out. 8.6 miles horizontally, 1 mile vertically, 108 degrees in the sun (which most of the way is). We are each carrying about 25 pounds gear and water.
 
 <div id="attachment_1506" style="width: 610px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2017/07/P1000245.jpg"><img aria-describedby="caption-attachment-1506" loading="lazy" class="wp-image-1506 size-large" src="/wp-content/uploads/2017/07/P1000245-600x450.jpg" alt="" width="600" height="450" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000245-600x450.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000245-150x113.jpg 150w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000245-300x225.jpg 300w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000245-768x576.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000245-700x525.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a>

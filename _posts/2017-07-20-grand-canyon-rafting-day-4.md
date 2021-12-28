@@ -11,7 +11,7 @@ categories:
 tags:
   - grand-canyon-2017
 ---
-Day 4 we hit some good rapids and hiked up aÂ beautiful slot canyon.
+Day 4 we hit some good rapids and hiked up a beautiful slot canyon.
 
 &nbsp;
 
@@ -63,6 +63,6 @@ The little colorado was very silty and cinnamon colored. The silt is very fine a
 
 Tuna steaks with rice pilaf and squash for dinner tonight, and it was delicious.
 
-The weather looks very monsoony so Elliot andÂ i sleep in ledges in the cliff wall.
+The weather looks very monsoony so Elliot and i sleep in ledges in the cliff wall.
 
-Fewer pictures today because the cameraÂ battery is running low and i am conserving.
+Fewer pictures today because the camera battery is running low and i am conserving.

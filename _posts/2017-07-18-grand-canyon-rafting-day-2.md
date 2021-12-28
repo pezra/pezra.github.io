@@ -37,7 +37,7 @@ Day 2 is a big rapids day. It was cool this morning and the water is below 50 de
   </p>
 </div>
 
-We stop for a hike up north canyon, a gorgeousÂ slot canyon. At the pool Megan and Leia gave us a wonderful little guitar and vocal concert. The acoustics of the pool areÂ amazing.
+We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan and Leia gave us a wonderful little guitar and vocal concert. The acoustics of the pool are amazing.
 
 <div id="attachment_1421" style="width: 610px" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2017/07/P1000060.jpg"><img aria-describedby="caption-attachment-1421" loading="lazy" class="wp-image-1421 size-large" src="/wp-content/uploads/2017/07/P1000060-600x900.jpg" alt="" width="600" height="900" srcset="https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000060-600x900.jpg 600w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000060-100x150.jpg 100w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000060-200x300.jpg 200w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000060-768x1152.jpg 768w, https://barelyenough.org/wordpress/wp-content/uploads/2017/07/P1000060-700x1050.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a>
@@ -121,4 +121,4 @@ We stop for a hike up north canyon, a gorgeousÂ slot canyon. At the pool Megan
 
 Dinner was salmon, quinoa and fruit salad. It was delicious, though a little sandy. The wind was pretty strong during dinner prep.
 
-It rained off and on over night but iÂ rested well wrapped in a tarp. Wet is way better than hot. We don&#8217;t need no stinken&#8217; tents. (Though they are provided for those who feel otherwise.) Word to the wise it is a _lotÂ _cooler near the water.
+It rained off and on over night but i rested well wrapped in a tarp. Wet is way better than hot. We don&#8217;t need no stinken&#8217; tents. (Though they are provided for those who feel otherwise.) Word to the wise it is a _lot _cooler near the water.

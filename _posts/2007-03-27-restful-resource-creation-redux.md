@@ -32,7 +32,7 @@ The semantics are nice and clean but it has the disadvantage of being non-standa
 
 One of the reasons Mr Tilkov does not like the redirected PUT approach to resource creation is that
 
-> it violates the original purpose of PUT, though â€” if I PUT to a > URI, I donâ€™t expect it to have different results each time I do so
+> it violates the original purpose of PUT, though â€” if I PUT to a > URI, I don't expect it to have different results each time I do so
 
 There is certainly one way to look at the redirected PUT request that is a little out of sync with the canonical PUT semantics but I don&#8217;t think it has any thing to do with the results or the request. The semantic problem I see is that a PUT is a request to store an entity at a particular URI. In the context of redirected PUT based resource creation is that the new entity will never be stored at the initial URI to which it is PUT.
 

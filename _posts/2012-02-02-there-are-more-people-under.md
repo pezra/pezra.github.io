@@ -14,4 +14,4 @@ categories:
 tags:
   - twitter
 ---
-&#8220;There are more people under â€œcorrectional supervisionâ€ in America than were in the Gulag Archipelago under Stalin&#8221; <a href="http://t.co/IEfDE411" rel="nofollow">http://t.co/IEfDE411</a>
+&#8220;There are more people under "correctional supervision" in America than were in the Gulag Archipelago under Stalin&#8221; <a href="http://t.co/IEfDE411" rel="nofollow">http://t.co/IEfDE411</a>

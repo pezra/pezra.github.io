@@ -13,6 +13,6 @@ tags:
 ---
 [Ryan Tomayko](http://naeblis.cx/rtomayko/weblog/) is trying to start a &#8220;[less code movement](http://lesscode.org/2005/07/07/welcome/)&#8220;.
 
-> Weâ€™re assembling a stack of tools and techniques that are demonstrably superior and yet somehow much simpler than those of the mainstream past. 
+> We're assembling a stack of tools and techniques that are demonstrably superior and yet somehow much simpler than those of the mainstream past.
 
 Yay, for him. He&#8217;s got my support.

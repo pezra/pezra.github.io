@@ -58,7 +58,7 @@ While pondering this, I found this in a post on an unrelated topic.
 
 <blockquote cite='http://codebetter.com/blogs/jeremy.miller/archive/2005/09/20/132290.aspx'>
   <p>
-    I think thereâ€™s a watershed moment in every developerâ€™s career when they start look more at their code as a structure and less as a bag of statements. &#8212; <a href='http://codebetter.com/blogs/jeremy.miller/archive/2005/09/20/132290.aspx'>Jeremy Miller</a>
+    I think there's a watershed moment in every developer's career when they start look more at their code as a structure and less as a bag of statements. &#8212; <a href='http://codebetter.com/blogs/jeremy.miller/archive/2005/09/20/132290.aspx'>Jeremy Miller</a>
   </p>
 </blockquote>
 
