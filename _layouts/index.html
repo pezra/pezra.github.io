@@ -9,16 +9,26 @@ layout: default
 
   {% for post in paginator.posts %}
   <article class="post-body">
+    {% if post.slug != post.title %}
     <h2 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
     </h2>
+    {% endif %}
+
     {% include post-meta.html post=post %}
 
     {{ post.content }}
 
-    <a href="{{ post.url | relative_url }}">Permalink</a>
+    {% if post.slug == post.title %}
+    <span class="post-permalink">
+      <a href="{{ post.url | relative_url }}">
+        permalink
+      </a>
+    </span>
+    {% endif %}
+
   </article>
   {% endfor %}
 
