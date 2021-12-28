@@ -13,4 +13,4 @@ aktt_tweeted:
 categories:
   - Personal
 ---
-<img title="2012-07-11_16-20-26_660.jpg" class="alignnone" alt="image" src="http://barelyenough.org/wordpress/wp-content/uploads/2012/07/wpid-2012-07-11_16-20-26_660.jpg" />
+<img title="2012-07-11_16-20-26_660.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/07/wpid-2012-07-11_16-20-26_660.jpg" />

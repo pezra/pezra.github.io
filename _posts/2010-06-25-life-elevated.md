@@ -11,7 +11,7 @@ categories:
 tags:
   - vacation
 ---
-[<img class='alignnone size-full' src='http://barelyenough.org/wordpress/wp-content/uploads/2010/06/l_1600_1200_E8E56AFC-C6DA-406B-AB3D-72DC4FF29295.jpeg' alt='' />](http://barelyenough.org/wordpress/wp-content/uploads/2010/06/l_1600_1200_E8E56AFC-C6DA-406B-AB3D-72DC4FF29295.jpeg)
+[<img class='alignnone size-full' src='/wp-content/uploads/2010/06/l_1600_1200_E8E56AFC-C6DA-406B-AB3D-72DC4FF29295.jpeg' alt='' />](/wp-content/uploads/2010/06/l_1600_1200_E8E56AFC-C6DA-406B-AB3D-72DC4FF29295.jpeg)
 
 That is utah&#8217;s slogan, apparently,which is where we are today. We spent the last few days at the grand canyon and lake powell. Both are awe inspiringly beautiful. So much so that I will skip posting the completely inadequate pictures my phone captured.
 

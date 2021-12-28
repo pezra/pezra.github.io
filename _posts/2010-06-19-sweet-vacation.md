@@ -11,4 +11,4 @@ categories:
 ---
 Vacation with the family has begun. I am very excited. We are going to see tons of interesting things in the southwest US over the next week.
 
-[<img class='alignnone size-full' src='http://barelyenough.org/wordpress/wp-content/uploads/2010/06/l_1600_1200_CDC87835-9207-43FE-A135-2D3AF6A64DEB1.jpeg' alt='' />](http://barelyenough.org/wordpress/wp-content/uploads/2010/06/l_1600_1200_CDC87835-9207-43FE-A135-2D3AF6A64DEB1.jpeg)</p>
+[<img class='alignnone size-full' src='/wp-content/uploads/2010/06/l_1600_1200_CDC87835-9207-43FE-A135-2D3AF6A64DEB1.jpeg' alt='' />](/wp-content/uploads/2010/06/l_1600_1200_CDC87835-9207-43FE-A135-2D3AF6A64DEB1.jpeg)</p>
