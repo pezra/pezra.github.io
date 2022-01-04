@@ -52,7 +52,7 @@ I don't know if this will help other people but it did help me clarify my thinki
 
 A particular consumer, C, needs messages to contain certain information to achieve its goal.
 
-    M = set of all messages
+    m = set of all messages
 
     mC = {m | m in M, m contains info needed by consumer C}
 
@@ -66,10 +66,9 @@ As the schema approaches perfection for consumer C the set of valid messages app
 
 In practice, however, there is always some mis-match between the set of valid messages and the set of messages actually processable by the consumer. Some technically invalid messages contain enough information for the consumer to achieve its goal. Some technically valid messages will contain insufficient information. The mis-match may be due to bugs, a lack of expressiveness in the schema language or just poor design. The job of a schema designer is to minimize the mis-match.
 
-    mC doesn't equal mV
-    mC isn't a subset of mV
-    mC isn't a superset of mV
-
+    mC ≠ mV
+    mC ⊄ mV
+    mC ⊅ mV
 
 Now consider a second consumer of these messages.
 
@@ -79,8 +78,8 @@ A particular consumer, D, needs messages to contain certain information to achie
 
 The information needed by consumer D will, in general, be different from the information needed by consumer C. Therefore, the set of messages processable by C will, in general, not equal the set of messages processable by D.
 
-    mC doesn't equal mD (in general)
+    mC ≠ mD (in general)
 
 The kicker: the perfect schema for consumer C is, in general, different from the perfect schema any other consumer. Minimizing the difference between `mV` and `mC` will tend to increase the difference between `mV` and `mD`.
 
-    perfectSchemaFor(C) doesn't equal perfectSchemaFor(D)
+    perfectSchemaFor(C) ≠ perfectSchemaFor(D)
