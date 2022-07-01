@@ -1,6 +1,6 @@
 ---
 id: 1591
-title: ‘South America - Santiago (and Atlanta)’
+title: South America - Santiago (and Atlanta)
 date: 2022-05-05T00:00:00-04:00
 author: Peter Williams
 layout: post
