@@ -14,7 +14,7 @@ tags:
 We put in at Lee&#8217;s Ferry. We learn the few commands the guides use right away and then we are off.
 
 <div id="attachment_1406" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000003.jpg">![](/photos/P1000003.jpg)</a>
+  ![](/photos/P1000003.jpg)
 
   <p id="caption-attachment-1406" class="wp-caption-text">
     Peter, Elliot, Charlie, Robert (left to right)
@@ -24,7 +24,7 @@ We put in at Lee&#8217;s Ferry. We learn the few commands the guides use right a
 The scenery is awe inspiring right from the beginning (as you can see from the background).
 
 <div id="attachment_1408" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000013.jpg">![](/photos/P1000013.jpg)</a>
+  ![](/photos/P1000013.jpg)
 
   <p id="caption-attachment-1408" class="wp-caption-text">
     Elliot during the lunch break.
@@ -40,7 +40,7 @@ Lunch is a short break from the river.  The crew sets up an impressive buffet of
 We ran 4 small to medium rapids (badger creek, soap creek, 13 mile and sheer wall) on the first day. Unfortunately, i don&#8217;t have any pictures or video of the rapids due to needing to have both hands on the paddle during rapids and an issue with Elliot&#8217;s go pro, which i will cover in a later post.
 
 <div id="attachment_1411" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000032.jpg">![](/photos/P1000032.jpg)</a>
+  ![](/photos/P1000032.jpg)
 
   <p id="caption-attachment-1411" class="wp-caption-text">
     View from the campsite (Hot Na Na)
@@ -48,7 +48,7 @@ We ran 4 small to medium rapids (badger creek, soap creek, 13 mile and sheer wal
 </div>
 
 <div id="attachment_1412" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000038.jpg">![](/photos/P1000038.jpg)</a>
+  ![](/photos/P1000038.jpg)
 
   <p id="caption-attachment-1412" class="wp-caption-text">
     A little light reading (&#8220;Death in Grand Canyon&#8221;) while dinner is being prepared.

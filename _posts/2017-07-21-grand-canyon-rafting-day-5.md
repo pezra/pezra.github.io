@@ -14,7 +14,7 @@ tags:
 Day 5 is the biggest rapids day yet. They come one right after another for an action packed day.
 
 <div id="attachment_1495" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000214.jpg">![](/photos/P1000214.jpg)</a>
+  ![](/photos/P1000214.jpg)
 
   <p id="caption-attachment-1495" class="wp-caption-text">
     View from our campsite in the morning light.
@@ -26,7 +26,7 @@ Day 5 is the biggest rapids day yet. They come one right after another for an ac
 [![](/photos/P1000216.jpg)](/photos/P1000216.jpg)
 
 <div id="attachment_1498" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000224.jpg">![](/photos/P1000224.jpg)</a>
+  ![](/photos/P1000224.jpg)
 
   <p id="caption-attachment-1498" class="wp-caption-text">
     Scouting Hance Rapid, the most technical one we will encounter.
@@ -38,7 +38,7 @@ Day 5 is the biggest rapids day yet. They come one right after another for an ac
 [![](/photos/P1000243.jpg)](/photos/P1000243.jpg)
 
 <div id="attachment_1501" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000244.jpg">![](/photos/P1000244.jpg)</a>
+  ![](/photos/P1000244.jpg)
 
   <p id="caption-attachment-1501" class="wp-caption-text">
     Elliot in the final campsite of our trip.

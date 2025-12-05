@@ -12,7 +12,7 @@ tags:
   - grand-canyon-2017
 ---
 <div id="attachment_1417" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000042.jpg">![](/photos/P1000042.jpg)</a>
+  ![](/photos/P1000042.jpg)
 
   <p id="caption-attachment-1417" class="wp-caption-text">
     View from hot na na in the morning light.
@@ -20,7 +20,7 @@ tags:
 </div>
 
 <div id="attachment_1418" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000047.jpg">![](/photos/P1000047.jpg)</a>
+  ![](/photos/P1000047.jpg)
 
   <p id="caption-attachment-1418" class="wp-caption-text">
     Elliot, ready for a day of big water.
@@ -30,7 +30,7 @@ tags:
 Day 2 is a big rapids day. It was cool this morning and the water is below 50 degrees so we really appreciated our splash jackets.
 
 <div id="attachment_1420" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000054.jpg">![](/photos/P1000054.jpg)</a>
+  ![](/photos/P1000054.jpg)
 
   <p id="caption-attachment-1420" class="wp-caption-text">
     The water really is this green.
@@ -40,7 +40,7 @@ Day 2 is a big rapids day. It was cool this morning and the water is below 50 de
 We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan and Leia gave us a wonderful little guitar and vocal concert. The acoustics of the pool are amazing.
 
 <div id="attachment_1421" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000060.jpg">![](/photos/P1000060.jpg)</a>
+  ![](/photos/P1000060.jpg)
 
   <p id="caption-attachment-1421" class="wp-caption-text">
     North canyon
@@ -52,7 +52,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 [![](/photos/P1000073.jpg)](/photos/P1000073.jpg)=
 
 <div id="attachment_1424" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000074.jpg">![](/photos/P1000074.jpg)</a>
+  ![](/photos/P1000074.jpg)
 
   <p id="caption-attachment-1424" class="wp-caption-text">
     Elliot in north canyon pool
@@ -60,7 +60,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 </div>
 
 <div id="attachment_1425" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000075.jpg">![](/photos/P1000075.jpg)</a>
+  ![](/photos/P1000075.jpg)
 
   <p id="caption-attachment-1425" class="wp-caption-text">
     North canyon pool
@@ -70,7 +70,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 [![](/photos/P1000090.jpg)](/photos/P1000090.jpg)
 
 <div id="attachment_1428" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000095.jpg">![](/photos/P1000095.jpg)</a>
+  ![](/photos/P1000095.jpg)
 
   <p id="caption-attachment-1428" class="wp-caption-text">
     Big horn sheep, including a &#8220;lamb&#8221;.
@@ -80,7 +80,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 [![](/photos/P1000097.jpg)](/photos/P1000097.jpg)
 
 <div id="attachment_1430" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000105.jpg">![](/photos/P1000105.jpg)</a>
+  ![](/photos/P1000105.jpg)
 
   <p id="caption-attachment-1430" class="wp-caption-text">
     A game of hunker down. Somebody gets wet. :)
@@ -88,7 +88,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 </div>
 
 <div id="attachment_1431" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000110.jpg">![](/photos/P1000110.jpg)</a>
+  ![](/photos/P1000110.jpg)
 
   <p id="caption-attachment-1431" class="wp-caption-text">
     View from the campsite (whose name i have forgotten)
@@ -96,7 +96,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 </div>
 
 <div id="attachment_1432" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000113.jpg">![](/photos/P1000113.jpg)</a>
+  ![](/photos/P1000113.jpg)
 
   <p id="caption-attachment-1432" class="wp-caption-text">
     We got a beautiful rainbow. My camera really doesn&#8217;t do it justice.
@@ -104,7 +104,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 </div>
 
 <div id="attachment_1433" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000122.jpg">![](/photos/P1000122.jpg)</a>
+  ![](/photos/P1000122.jpg)
 
   <p id="caption-attachment-1433" class="wp-caption-text">
     Dying light on the canyon walls.
@@ -112,7 +112,7 @@ We stop for a hike up north canyon, a gorgeous slot canyon. At the pool Megan an
 </div>
 
 <div id="attachment_1434" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000123.jpg">![](/photos/P1000123.jpg)</a>
+  ![](/photos/P1000123.jpg)
 
   <p id="caption-attachment-1434" class="wp-caption-text">
     Dying light on the canyon walls.
