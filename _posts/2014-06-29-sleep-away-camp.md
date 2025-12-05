@@ -9,8 +9,8 @@ permalink: /blog/2014/06/sleep-away-camp/
 categories:
   - Personal
 ---
-<img src="/wp-content/uploads/2014/06/wpid-wp-1404077473880.jpeg" />
+![](/wp-content/uploads/2014/06/wpid-wp-1404077473880.jpeg)
 
-<img src="/wp-content/uploads/2014/06/wpid-wp-1404077481627.jpeg" />
+![](/wp-content/uploads/2014/06/wpid-wp-1404077481627.jpeg)
 
 Both kids safely ensconced at sleep away camp. Kid free for the whole week!

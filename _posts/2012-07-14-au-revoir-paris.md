@@ -14,7 +14,7 @@ categories:
   - Personal
 format: image
 ---
-<img title="2012-07-14_16-51-04_212.jpg" class="alignnone" alt="image" src="/photos/wpid-2012-07-14_16-51-04_212.jpg" />
+![](/photos/wpid-2012-07-14_16-51-04_212.jpg)
 
 It has been a great trip but it now it is time to head home.
 

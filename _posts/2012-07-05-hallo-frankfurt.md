@@ -15,6 +15,6 @@ categories:
 ---
 This evening we enjoyed a nice &#8211; if a bit soggy &#8211; walk through central Frankfurt with my brother Joshua.
 
-<img title="2012-07-05_19-38-28_776.jpg" class="alignnone" alt="image" src="/photos/wpid-2012-07-05_19-38-28_776.jpg" />
+![](/photos/wpid-2012-07-05_19-38-28_776.jpg)
 
 All&#8217;s well that ends with frozen yogurt.

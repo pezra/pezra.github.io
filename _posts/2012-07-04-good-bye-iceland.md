@@ -15,6 +15,6 @@ categories:
 tags:
   - Personal
 ---
-<img title="2012-07-04_17-44-26_260.jpg" class="alignnone" alt="image" src="/photos/wpid-2012-07-04_17-44-26_260.jpg" />
+![](/photos/wpid-2012-07-04_17-44-26_260.jpg)
 
 Iceland has been amazing. I keep finding myself saying &#8220;when we come back &#8230;&#8221; which is always a good sign.

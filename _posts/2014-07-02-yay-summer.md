@@ -12,6 +12,6 @@ format: gallery
 ---
 Sarah McLachlan at Red Rocks
 
-[<img title="wp-1404354827851" class="alignnone size-full" alt="image" src="/wp-content/uploads/2014/07/wpid-wp-1404354827851.jpeg" />](/wp-content/uploads/2014/07/wpid-wp-1404354827851.jpeg)
+[![](/wp-content/uploads/2014/07/wpid-wp-1404354827851.jpeg)](/wp-content/uploads/2014/07/wpid-wp-1404354827851.jpeg)
 
 Red Rocks is my favorite venue.

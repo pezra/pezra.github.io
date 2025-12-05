@@ -9,7 +9,7 @@ permalink: /blog/2014/07/colorado-river/
 categories:
   - Personal
 ---
-[<img title="wp-1405219346526" class="alignleft" alt="image" src="/wp-content/uploads/2014/07/wpid-wp-1405219346526.jpeg" />](/wp-content/uploads/2014/07/wpid-wp-1405219346526.jpeg)
+[![](/wp-content/uploads/2014/07/wpid-wp-1405219346526.jpeg)](/wp-content/uploads/2014/07/wpid-wp-1405219346526.jpeg)
 
 Elliot and I after white water kayaking on the Colorado river.
 

@@ -11,11 +11,11 @@ categories:
 ---
 I have been battling the sprinkler system in my front yard for a while now. I spend a good part of last weekend working on it only to have completion of the project ripped from my grasp by a burst pipe (and my lack of competence in sprinkler systems). Today, however, I am triumphant.
 
-![My sprinklers running](/blog/photos/sprinklers-running.jpg) 
+![My sprinklers running]/photos/sprinklers-running.jpg) 
 
 Here is picture of my new found enemies unconditional surrender.
 
-![My sprinklers running](/blog/photos/sprinkler-pipe.jpg) 
+![My sprinklers running]/photos/sprinkler-pipe.jpg) 
 
 (That is the replacement for the section of burst pipe that was such a problem. Notice how it is not leaking. It&#8217;s the small things.)
 

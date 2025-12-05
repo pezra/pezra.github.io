@@ -13,4 +13,4 @@ aktt_tweeted:
 categories:
   - Personal
 ---
-<img title="2012-07-11_16-20-26_660.jpg" class="alignnone" alt="image" src="/photos/wpid-2012-07-11_16-20-26_660.jpg" />
+![](/photos/wpid-2012-07-11_16-20-26_660.jpg)
