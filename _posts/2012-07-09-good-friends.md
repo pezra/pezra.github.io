@@ -13,6 +13,6 @@ aktt_tweeted:
 categories:
   - Personal
 ---
-<img title="2012-07-09_12-00-41_252.jpg" class="alignnone" alt="image" src="/wp-content/uploads/2012/07/wpid-2012-07-09_12-00-41_252.jpg" />
+<img title="2012-07-09_12-00-41_252.jpg" class="alignnone" alt="image" src="/photos/wpid-2012-07-09_12-00-41_252.jpg" />
 
 Elliot and Audrey with their friends in the old section of Basel.
