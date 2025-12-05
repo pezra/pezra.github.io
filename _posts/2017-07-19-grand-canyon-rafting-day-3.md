@@ -14,7 +14,7 @@ tags:
 Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favorite day of the trip.
 
 <div id="attachment_1458" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000130.jpg">![](/photos/P1000130-600x400.jpg)</a>
+  <a href="/photos/P1000130.jpg">![](/photos/P1000130.jpg)</a>
 
   <p id="caption-attachment-1458" class="wp-caption-text">
     Morning light on the canyon walls.
@@ -22,7 +22,7 @@ Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favor
 </div>
 
 <div id="attachment_1459" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000132.jpg">![](/photos/P1000132-600x107.jpg)</a>
+  <a href="/photos/P1000132.jpg">![](/photos/P1000132.jpg)</a>
 
   <p id="caption-attachment-1459" class="wp-caption-text">
     Panorama of our campsite. You can see the kitchen and hangout areas in the lower middle
@@ -34,17 +34,17 @@ Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favor
 &nbsp;
 
 <div id="attachment_1461" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000136.jpg">![](/photos/P1000136-600x400.jpg)</a>
+  <a href="/photos/P1000136.jpg">![](/photos/P1000136.jpg)</a>
 
   <p id="caption-attachment-1461" class="wp-caption-text">
     Morning light on the canyon walls.
   </p>
 </div>
 
-[![](/photos/P1000139-600x900.jpg)](/photos/P1000139.jpg)
+[![](/photos/P1000139.jpg)](/photos/P1000139.jpg)
 
 <div id="attachment_1463" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000141.jpg">![](/photos/P1000141-600x400.jpg)</a>
+  <a href="/photos/P1000141.jpg">![](/photos/P1000141.jpg)</a>
 
   <p id="caption-attachment-1463" class="wp-caption-text">
     Vasey&#8217;s Paradise.
@@ -54,7 +54,7 @@ Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favor
 &nbsp;
 
 <div id="attachment_1464" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000145.jpg">![](/photos/P1000145-600x400.jpg)</a>
+  <a href="/photos/P1000145.jpg">![](/photos/P1000145.jpg)</a>
 
   <p id="caption-attachment-1464" class="wp-caption-text">
     Redwall cavern.
@@ -64,29 +64,29 @@ Day 3 is a float day. No rapids to speak of. Still, it turned out to be my favor
 We stopped at redwall cavern and played horseshoes, bocce ball and frisbee. We also saw some great fossils.
 
 <div id="attachment_1465" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000146.jpg">![](/photos/P1000146-600x400.jpg)</a>
+  <a href="/photos/P1000146.jpg">![](/photos/P1000146.jpg)</a>
 
   <p id="caption-attachment-1465" class="wp-caption-text">
     View from redwall cavernt.
   </p>
 </div>
 
-[![](/photos/P1000152-600x900.jpg)](/photos/P1000152.jpg)
+[![](/photos/P1000152.jpg)](/photos/P1000152.jpg)
 
 <div id="attachment_1467" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000155.jpg">![](/photos/P1000155-600x900.jpg)</a>
+  <a href="/photos/P1000155.jpg">![](/photos/P1000155.jpg)</a>
 
   <p id="caption-attachment-1467" class="wp-caption-text">
     Lunch is under that umbrella.
   </p>
 </div>
 
-[![](/photos/P1000157-600x140.jpg)](/photos/P1000157.jpg)
+[![](/photos/P1000157.jpg)](/photos/P1000157.jpg)
 
 After lunch we all hitched our boats to Tom&#8217;s oar (cargo) boat and listened to Megan give a beautiful concert on the river.
 
 <div id="attachment_1469" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000159.jpg">![](/photos/P1000159-600x450.jpg)</a>
+  <a href="/photos/P1000159.jpg">![](/photos/P1000159.jpg)</a>
 
   <p id="caption-attachment-1469" class="wp-caption-text">
     Megan gives a concert on the water while Tom tows all the boats.
@@ -94,50 +94,50 @@ After lunch we all hitched our boats to Tom&#8217;s oar (cargo) boat and listene
 </div>
 
 <div id="attachment_1470" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000160.jpg">![](/photos/P1000160-600x450.jpg)</a>
+  <a href="/photos/P1000160.jpg">![](/photos/P1000160.jpg)</a>
 
   <p id="caption-attachment-1470" class="wp-caption-text">
     Elliot steering the caboose of the concert boat train.
   </p>
 </div>
 
-[![](/photos/P1000161-600x450.jpg)](/photos/P1000161.jpg)
+[![](/photos/P1000161.jpg)](/photos/P1000161.jpg)
 
 At camp we hiked up to the top of the inner canyon rim. It was a pretty serious hike but the views are well worth it.
 
-[![](/photos/P1000169-600x172.jpg)](/photos/P1000169.jpg)
+[![](/photos/P1000169.jpg)](/photos/P1000169.jpg)
 
 <div id="attachment_1473" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000173.jpg">![](/photos/P1000173-600x450.jpg)</a>
+  <a href="/photos/P1000173.jpg">![](/photos/P1000173.jpg)</a>
 
   <p id="caption-attachment-1473" class="wp-caption-text">
     Me dangling my feet over the edge of the inner canyon. It was a long hike up and an even longer one down.
   </p>
 </div>
 
-[![](/photos/P1000181-600x450.jpg)](/photos/P1000181.jpg)
+[![](/photos/P1000181.jpg)](/photos/P1000181.jpg)
 
 <div id="attachment_1475" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000183.jpg">![](/photos/P1000183-600x450.jpg)</a>
+  <a href="/photos/P1000183.jpg">![](/photos/P1000183.jpg)</a>
 
   <p id="caption-attachment-1475" class="wp-caption-text">
     Robert and i on the top of the inner canyon rim.
   </p>
 </div>
 
-[![](/photos/P1000184-600x450.jpg)](/photos/P1000184.jpg)
+[![](/photos/P1000184.jpg)](/photos/P1000184.jpg)
 
-[![](/photos/P1000185-600x450.jpg)](/photos/P1000185.jpg)
+[![](/photos/P1000185.jpg)](/photos/P1000185.jpg)
 
 <div id="attachment_1478" style="width: 610px" class="wp-caption alignnone">
-  <a href="/photos/P1000188.jpg">![](/photos/P1000188-600x450.jpg)</a>
+  <a href="/photos/P1000188.jpg">![](/photos/P1000188.jpg)</a>
 
   <p id="caption-attachment-1478" class="wp-caption-text">
     Wild life.
   </p>
 </div>
 
-[![](/photos/P1000189-600x450.jpg)](/photos/P1000189.jpg)
+[![](/photos/P1000189.jpg)](/photos/P1000189.jpg)
 
 Carnitas for dinner tonight. They were spectacular, per usual.
 
