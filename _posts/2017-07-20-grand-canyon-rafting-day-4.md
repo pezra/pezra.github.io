@@ -17,29 +17,23 @@ Day 4 we hit some good rapids and hiked up a beautiful slot canyon.
 
 [![](/photos/P1000193.jpg)](/photos/P1000193.jpg)
 
-<div id="attachment_1484" style="width: 610px" class="wp-caption alignnone">
   ![](/photos/P1000196.jpg)
 
   <p id="caption-attachment-1484" class="wp-caption-text">
     It&#8217;s a little blurry but it&#8217;s the best i have.
   </p>
-</div>
 
-<div id="attachment_1485" style="width: 610px" class="wp-caption alignnone">
   ![](/photos/P1000199.jpg)
 
   <p id="caption-attachment-1485" class="wp-caption-text">
     Wild life.
   </p>
-</div>
 
-<div id="attachment_1486" style="width: 610px" class="wp-caption alignnone">
   ![](/photos/P1000203.jpg)
 
   <p id="caption-attachment-1486" class="wp-caption-text">
     Elliot riding the bull and getting blasted with a water gun.
   </p>
-</div>
 
 &nbsp;
 
@@ -47,13 +41,11 @@ Day 4 we hit some good rapids and hiked up a beautiful slot canyon.
 
 [![](/photos/P1000207.jpg)](/photos/P1000207.jpg)
 
-<div id="attachment_1489" style="width: 610px" class="wp-caption alignnone">
   ![](/photos/P1000208.jpg)
 
   <p id="caption-attachment-1489" class="wp-caption-text">
     Elliot next to the little colorado river.
   </p>
-</div>
 
 [![](/photos/P1000210.jpg)](/photos/P1000210.jpg)
 
