@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: https://pezra.me
+url: https://barelyenough.org
 name: Peter Williams
 title: Peter Williams
-description: What could possibility go wrong?
+description: What could possibly go wrong?
 email: pezra@barelyenough.org
 baseurl: "" # the subpath of your site, e.g. /blog
 
